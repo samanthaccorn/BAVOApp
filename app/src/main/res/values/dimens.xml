@@ -9,4 +9,7 @@
     <dimen name="horizontal_text_margin">40dp</dimen>
     <dimen name="edit_text_height">40dp</dimen>
     <dimen name="submit_button_height">72dp</dimen>
+
+    <dimen name="heading_text">45dp</dimen>
+    <dimen name="heading_buffer">25dp</dimen>
 </resources>

@@ -18,12 +18,9 @@
     <string name="email_key">EMAIL</string>
     <string name="first_time">FIRST_TIME</string>
 
-    <string-array name="page_titles">
-        <item>Main</item>
-        <item>Resources</item>
-        <item>Events</item>
-    </string-array>
-
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="resources">Resources</string>
+    <string name="events">Events</string>
 </resources>

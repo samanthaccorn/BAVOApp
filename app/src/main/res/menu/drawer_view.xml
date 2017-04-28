@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main_page_fragment"
+            android:title="Stored Data"
+            android:checked="true" />
+        <item
+            android:id="@+id/nav_events_fragment"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_resources_fragment"
+            android:title="Resources" />
+
+    </group>
+</menu>
