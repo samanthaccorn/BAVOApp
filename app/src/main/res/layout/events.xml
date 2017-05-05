@@ -22,7 +22,5 @@
             android:gravity="center"
             android:textSize="@dimen/heading_text"
             android:textColor="@color/colorPrimary"/>
-
-
     </LinearLayout>
 </android.support.v4.widget.DrawerLayout>
